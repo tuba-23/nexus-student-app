@@ -1,1 +1,1 @@
-# nexus-student-app
+# Nexus - Student Networking App
